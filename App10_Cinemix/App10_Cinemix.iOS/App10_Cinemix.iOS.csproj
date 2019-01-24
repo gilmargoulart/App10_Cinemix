@@ -157,4 +157,16 @@
       <Name>App10_Cinemix</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Fundo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\FundoValor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Poster.png" />
+  </ItemGroup>
 </Project>
